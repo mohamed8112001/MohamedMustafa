@@ -32,7 +32,12 @@ As a **College of Education, Department of Information Technology** graduate, I�
 
 ---
 
-
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed8112001&show_icons=true&theme=dracula&hide_border=true" alt="Mohamed's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed8112001&theme=dracula&hide_border=true" alt="GitHub Streak"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed8112001&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/> -->
+</p>
 ---
 
 ### 🌟 Featured Projects
