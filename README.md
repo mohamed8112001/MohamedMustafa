@@ -34,25 +34,25 @@ As a **College of Education, Department of Information Technology** graduate, I�
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedMustafa&show_icons=true&theme=dracula&hide_border=true" alt="Mohamed's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedMustafa&theme=dracula&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMustafa&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed8112001&show_icons=true&theme=dracula&hide_border=true" alt="Mohamed's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed8112001&theme=dracula&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed8112001&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
 
 ### 🌟 Featured Projects
-- **[Project Name 1](https://github.com/MohamedMustafa/project1)**: A brief description of your project. (e.g., A responsive web app built with JavaScript and Bootstrap.)  
-- **[Project Name 2](https://github.com/MohamedMustafa/project2)**: A brief description of another project. (e.g., A Python script for data analysis with a clean UI.)  
+- **[Project Name 1](https://github.com/mohamed8112001/portfolio)**: A brief description of your project. (e.g., A responsive web app built with JavaScript and Bootstrap.)  
 - *More projects coming soon!*
 
 ---
 
 ### 📫 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="  https://www.linkedin.com/in/mohamed-mustafa-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:m.mustafa.iti@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<!--   <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+   -->
 </p>
 
 ---
