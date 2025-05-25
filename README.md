@@ -33,10 +33,6 @@ JavaScript | Bootstrap | HTML5 | CSS3 | Python | Git | GitHub | VS Code
 
 ## 🌟 Featured Projects
 
-### Project Name 1  
-A brief description of your project. (e.g., A responsive web app built with JavaScript and Bootstrap.)  
-More projects coming soon!
-
 ---
 
 ## 📫 Connect with Me
