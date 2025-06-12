@@ -1,4 +1,3 @@
-# ![Waving hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
  Hello, I'm Mohamed Mustafa!
 
 **Passionate IT Graduate | Lifelong Learner | Problem Solver**
